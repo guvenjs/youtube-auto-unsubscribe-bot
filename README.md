@@ -1,3 +1,8 @@
+# Youtube Auto Unsubscribe Bot
+
+![Introduction](https://github.com/guvenjs/youtube-auto-unsubscribe-bot/blob/master/introduction.gif)
+
+
 ## 💫 Features
 A script to unsubscribe from all YouTube channels you've subscribed to in one go.
 
