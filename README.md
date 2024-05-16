@@ -1,15 +1,17 @@
 # Youtube Auto Unsubscribe Bot
 
-![Introduction](https://github.com/guvenjs/youtube-auto-unsubscribe-bot/blob/master/introduction.gif)
+<br>
+
+![Introduction](https://raw.githubusercontent.com/guvenjs/youtube-auto-unsubscribe-bot/main/introduction.gif)
 
 
-## 💫 Features
+## Features 💫
 A script to unsubscribe from all YouTube channels you've subscribed to in one go.
 
-## 🤝 Browser compatibility
+## Browser compatibility 🤝
 Works on all browsers.
 
-## 🚶 Steps
+## Steps 🚶
 1. Go to your [YouTube Channel List](https://www.youtube.com/feed/channels).
 2. Right-click and choose **Inspect Element**.
 3. Open the **Console** tab and paste the script from [here](https://github.com/guvenjs/youtube-auto-unsubscribe-bot/blob/master/youtube-unsubscribe-all-channels.js), then press **Enter**.
