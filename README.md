@@ -17,4 +17,4 @@ Works on all browsers.
 3. Open the **Console** tab and paste the script from [here](https://github.com/guvenjs/youtube-auto-unsubscribe-bot/blob/master/youtube-unsubscribe-all-channels.js), then press **Enter**.
 4. The script will run, automatically unsubscribing you from all channels.
 
-> 🎉 Congratulations!
+🎉 Congratulations!
