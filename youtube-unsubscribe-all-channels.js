@@ -7,11 +7,11 @@ var currentIndex = 0;
 async function unsubscribeAll() {
   if (currentIndex < contentSections.length) {
     var currentSection = contentSections[currentIndex];
+    currentSection.scrollIntoView(true);
     var currentChannelName = currentSection.querySelectorAll(".style-scope.ytd-channel-name")[1].textContent.trim();
     await openDropdown();
     await handleUnsubscribe(); 
     await confirmUnsubscribe(); 
-
     console.log(`Unsubscribed from channel: ${currentChannelName}`);
     currentIndex++;
     setTimeout(unsubscribeAll, transactionDelay);
